@@ -1,4 +1,4 @@
-# Samsung Package Version T560NUUEU1BPI3_T560NUXAC1BPI3_XAC (unless otherwise specified and/or tagged)
+# Samsung Package Version T550XXU1CRI1_T550NEE1CRI1_NEE (unless otherwise specified and/or tagged)
 
 # Audio
 lib/libaudiosa.so

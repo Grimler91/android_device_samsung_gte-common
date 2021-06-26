@@ -5,3 +5,7 @@ lib/libaudiosa.so
 lib/libmysound.so
 lib/soundfx/libaudioeffectoffload.so
 lib/soundfx/libmyspace.so
+
+# RM
+bin/qseecomd
+vendor/lib/libQSEEComAPI.so
